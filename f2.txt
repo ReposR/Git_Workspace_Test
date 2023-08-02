@@ -7,3 +7,4 @@ file changed according to emergency branch
 =======
 THIS FILE SHOULD KEEP CHANGING IN ALL BRANCHES
 >>>>>>> master
+new branch made with name helpingBR .
